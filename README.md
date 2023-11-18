@@ -24,3 +24,13 @@ kl
 
 this is inline style
 ```
+
+```html
+<html>
+  <body></body>
+</html>
+```
+
+```js
+console.log("hello");
+```
