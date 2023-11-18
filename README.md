@@ -19,3 +19,8 @@ kl
 </br>
 <del> this is </del> <br/>
 `this is`
+
+```
+
+this is inline style
+```
